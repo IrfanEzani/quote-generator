@@ -15,6 +15,9 @@ function getQuote(quote) {
   <div class="main">
     <h3>${quote.content}</h3>
     <p>${quote.author}</p>
-
-  </div>`;
+  </div>
+    <div class="main-img">
+      <img src="main.png" alt="dream" height="250">
+    </div>
+  `;
 }
