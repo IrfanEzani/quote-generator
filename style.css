@@ -19,7 +19,7 @@ body {
 
 .container {
   min-height: 70vh;
-  min-width: 100vw;
+  min-width: 50vw;
   padding: 2rem;
   border-radius: 50px;
   background: white;
